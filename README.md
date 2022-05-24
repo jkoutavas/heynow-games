@@ -7,7 +7,7 @@ Visit the [wiki](https://github.com/jkoutavas/heynow-games/wiki/Checkers) for in
 
 ## Unity Tooling
 
-There are also these public facing Unit related Heynow Games projects:
+There are also these public facing Unity related Heynow Games projects:
 
 * [unity-project-template](https://github.com/jkoutavas/unity-project-template)
 * [unity-modular-textures](https://github.com/jkoutavas/unity-modular-textures)
