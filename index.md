@@ -12,4 +12,6 @@ Right now, I'm focused on building out the game mechanics, which are very nicely
 ## A video of the current state of the project
 The look and feel of the game is very simple and rough at this stage of development. I'll occasionally post videos here as development progresses. 
 
+Here we can see the invocation of some checker "super powers". You'll note I'm not playing turn-by-turn (red/blue/red/blue). I'm simply demo-ing some of the power ups.
+
 <video src="https://user-images.githubusercontent.com/1264625/169926374-16c1d7b8-4e20-47de-992c-2d85479a739a.mov" controls="controls" style="max-width: 730px;"></video>
