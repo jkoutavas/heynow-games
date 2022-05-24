@@ -1,6 +1,6 @@
 ## Checkers
 
-This is a Unity 3D project that is currently in early development. It's a "checkers with super powers" game, modeled after a classic Flash game that was popular from a few years ago. The intention is primarily for me to learn Unity development and build-up some development tools and art processing skills. There is also a desire to play this game with friends after it gets into a playable state. As far as releasing it as an actual publicly available game, that's a whole 'nother thing to look at well after the game is playable with friends, if ever.
+This is a [Unity](https://unity.com) 3D project that is currently in early development. It's a "checkers with super powers" game, modeled after a classic Flash game that was popular from a few years ago. The intention is primarily for me to learn Unity development and build-up some development tools and art processing skills. There is also a desire to play this game with friends after it gets into a playable state. As far as releasing it as an actual publicly available game, that's a whole 'nother thing to look at well after the game is playable with friends, if ever.
 
 The source code for the project is currently in a private github repository. It is based on a couple of things I've developed alongside the project, which are in public github repos:
 
