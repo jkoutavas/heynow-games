@@ -1,6 +1,10 @@
 # heynow-games
 A public facing meta repository of Heynow Games projects.
 
+## Wordstro
+
+Our first released app, Wordstro is an iOS word puzzle game. [Website](http://wordstro.com)
+
 ## Checkers
 
 Visit the [wiki](https://github.com/jkoutavas/heynow-games/wiki/Checkers) for info about this project.
